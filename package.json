@@ -1,7 +1,27 @@
+
 {
+  "name": "team-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treyeckels/team-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treyeckels/team-builder/issues"
+  },
+  "homepage": "https://github.com/treyeckels/team-builder#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "inquire": "^0.4.8",
+    "inquirer": "^8.2.4",
     "jest": "^28.1.0"
   }
 }
