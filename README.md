@@ -6,13 +6,13 @@ This program includes:
 
 * A program that generates a profile list depending on the prompts the employees can entering
 
-    * Each manager can enteir their name, email, id, ect. to generate their personal profile list
+    * Each manager can either their name, email, id, ect. to generate their personal profile list
 
-    * Each manager can also enter multiple ammount of employees working for them.
+    * Each manager can also enter multiple amount of employees working for them.
 
         * It can either be interns or regular employees
 
-        * Stnadard Engineers and Interns have slightly different data to input from eachother,
+        * Standard Engineers and Interns have slightly different data to input from eachother,
         whether it's school name for interns or an engineers github information about
 
 * This program also has passed through test files that make sure the program functions perfectly.
