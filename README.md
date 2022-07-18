@@ -27,3 +27,5 @@ This program includes:
 ![Screenshot of the generated page](./images/Screen3.png)
 
 [Link to the website](https://github.com/Mikhail25/Hw10-TeamProfileGenerator)
+
+[Link to the instruction video](https://drive.google.com/file/d/13pmdWf-PILxSBLouR5Xn-kj3SOtc87Pc/view)
