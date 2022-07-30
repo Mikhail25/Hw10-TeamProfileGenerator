@@ -1,4 +1,4 @@
-# Hw10-TeamProfileGenerator# HW6-WeatherDashboard
+# Hw10-TeamProfileGenerator
 
 ### This is Mikhail Sookwah's of creating a profile generator for employees
 
